@@ -3,18 +3,20 @@ string imputnumber = Console.ReadLine();
 if(imputnumber!=null)
 {
     int numberA = int.Parse(imputnumber);
-    int numberB = numberA*(-1);
-
-    string lineNumbers = string.Empty;
+    int lastDigit = numberA % 2;
     
-    while(numberB  < numberA)
+// проверяем остаток есть ли
+
+    if(lastDigit!= 0 )
+
     {
-    lineNumbers = lineNumbers + numberB + ",";
-    numberB = numberB + 1;
-
-    
+    Console.WriteLine(" Число явялется  нечетным");
     }
 
-    Console.WriteLine(lineNumbers);
+    else
 
+    {
+    Console.WriteLine("Число является  четным");
+    }
+    
 }  
