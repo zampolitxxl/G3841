@@ -8,4 +8,3 @@ if(inputNum!=null)
 
     Console.WriteLine(result);
 }
-п
