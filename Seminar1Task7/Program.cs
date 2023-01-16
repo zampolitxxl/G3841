@@ -3,20 +3,8 @@ string imputnumber = Console.ReadLine();
 if(imputnumber!=null)
 {
     int numberA = int.Parse(imputnumber);
-    int lastDigit = numberA % 2;
-    
-// проверяем остаток есть ли
+    int lastDigit = numberA % 10;
 
-    if(lastDigit!= 0 )
-
-    {
-    Console.WriteLine(" Число явялется  нечетным");
-    }
-
-    else
-
-    {
-    Console.WriteLine("Число является  четным");
-    }
-    
+    Console.WriteLine(lastDigit);
+ 
 }  
