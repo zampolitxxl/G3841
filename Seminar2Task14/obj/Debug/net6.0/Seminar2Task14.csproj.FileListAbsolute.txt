@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\bin\Debug\net6.0\Seminar2Task14.exe
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\bin\Debug\net6.0\Seminar2Task14.deps.json
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\bin\Debug\net6.0\Seminar2Task14.runtimeconfig.json
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\bin\Debug\net6.0\Seminar2Task14.dll
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\bin\Debug\net6.0\Seminar2Task14.pdb
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.AssemblyInfo.cs
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.dll
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\refint\Seminar2Task14.dll
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.pdb
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\Seminar2Task14.genruntimeconfig.cache
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task14\obj\Debug\net6.0\ref\Seminar2Task14.dll
