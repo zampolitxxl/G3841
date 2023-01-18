@@ -1,0 +1,5 @@
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task9\obj\Debug\net6.0\Seminar2Task9.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task9\obj\Debug\net6.0\Seminar2Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task9\obj\Debug\net6.0\Seminar2Task9.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task9\obj\Debug\net6.0\Seminar2Task9.AssemblyInfo.cs
+C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task9\obj\Debug\net6.0\Seminar2Task9.csproj.CoreCompileInputs.cache
