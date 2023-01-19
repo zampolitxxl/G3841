@@ -1,8 +1,7 @@
 ﻿Console.WriteLine("Введите трехзначное число");
 
 int num = int.Parse(Console.ReadLine()??"0");
-string size = myInt.ToString(num);
-if (size!=3)
+if (num<100 || num > 999)
 {
     Console.WriteLine("Вы ввели не трехзначное число, пожалуйста попробуйте снова");
 }
