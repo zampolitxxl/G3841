@@ -1,15 +1,30 @@
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.csproj.AssemblyReference.cache
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.AssemblyInfoInputs.cache
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.AssemblyInfo.cs
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.csproj.CoreCompileInputs.cache
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\bin\Debug\net6.0\Seminar2Task10.exe
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\bin\Debug\net6.0\Seminar2Task10.deps.json
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\bin\Debug\net6.0\Seminar2Task10.runtimeconfig.json
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\bin\Debug\net6.0\Seminar2Task10.dll
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\bin\Debug\net6.0\Seminar2Task10.pdb
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.dll
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\refint\Seminar2Task10.dll
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.pdb
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\Seminar2Task10.genruntimeconfig.cache
-C:\Users\Кирилл\Documents\GB Java\SeminarC#\G3841\Seminar2Task10\obj\Debug\net6.0\ref\Seminar2Task10.dll
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.csproj.AssemblyReference.cache
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.AssemblyInfoInputs.cache
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.AssemblyInfo.cs
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.csproj.CoreCompileInputs.cache
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.exe
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.deps.json
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.runtimeconfig.json
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.dll
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.pdb
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.dll
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/refint/Seminar2Task10.dll
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.pdb
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.genruntimeconfig.cache
+C:/Users/Кирилл/Documents/GB Java/SeminarC#/G3841/Seminar2Task10/obj/Debug/net6.0/ref/Seminar2Task10.dll
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.deps.json
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.runtimeconfig.json
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.dll
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/bin/Debug/net6.0/Seminar2Task10.pdb
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.csproj.AssemblyReference.cache
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.AssemblyInfoInputs.cache
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.AssemblyInfo.cs
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.csproj.CoreCompileInputs.cache
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.dll
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/refint/Seminar2Task10.dll
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.pdb
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/Seminar2Task10.genruntimeconfig.cache
+/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/Debug/net6.0/ref/Seminar2Task10.dll

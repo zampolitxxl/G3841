@@ -1,12 +1,13 @@
-﻿char[]digit = Console.ReadLine().ToCharArray();
+﻿char[] digit = Console.ReadLine().ToCharArray();
 
-if (digit.Length>3)
+if (digit.Length > 2)
 {
-    Console.WriteLine ("Введено верное число");
+    Console.WriteLine("Введено верное число");
+    Console.WriteLine(digit[2]);
+
 }
 else
 {
-        Console.WriteLine ("Третей цифры нет");
+    Console.WriteLine("Третей цифры нет");
 
 }
-Console.WriteLine ( digit[2]);

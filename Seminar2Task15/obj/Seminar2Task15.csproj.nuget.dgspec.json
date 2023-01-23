@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task15\\Seminar2Task15.csproj": {}
+    "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task15/Seminar2Task15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task15\\Seminar2Task15.csproj": {
+    "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task15/Seminar2Task15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task15\\Seminar2Task15.csproj",
+        "projectUniqueName": "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task15/Seminar2Task15.csproj",
         "projectName": "Seminar2Task15",
-        "projectPath": "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task15\\Seminar2Task15.csproj",
-        "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task15\\obj\\",
+        "projectPath": "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task15/Seminar2Task15.csproj",
+        "packagesPath": "/Users/kirilltimofeev/.nuget/packages/",
+        "outputPath": "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task15/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Кирилл\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kirilltimofeev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }

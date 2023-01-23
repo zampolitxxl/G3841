@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Кирилл\\.nuget\\packages\\": {}
+    "/Users/kirilltimofeev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task10\\Seminar2Task10.csproj",
+      "projectUniqueName": "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/Seminar2Task10.csproj",
       "projectName": "Seminar2Task10",
-      "projectPath": "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task10\\Seminar2Task10.csproj",
-      "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Кирилл\\Documents\\GB Java\\SeminarC#\\G3841\\Seminar2Task10\\obj\\",
+      "projectPath": "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/Seminar2Task10.csproj",
+      "packagesPath": "/Users/kirilltimofeev/.nuget/packages/",
+      "outputPath": "/Users/kirilltimofeev/Seminars C sharp/G3841/Seminar2Task10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Кирилл\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/kirilltimofeev/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
       }
     }
   }
